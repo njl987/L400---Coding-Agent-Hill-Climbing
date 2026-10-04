@@ -1,0 +1,36 @@
+2026-10-04 18:10:50.344 [warning] Dir "/home/student_04_222a171c9bd6/.pixi/envs" is not watchable (directory does not exist)
+2026-10-04 18:10:50.451 [info] Starting Environment refresh
+2026-10-04 18:10:50.452 [info] Searching for interpreters in posix paths locator
+2026-10-04 18:10:50.463 [info] Searching for pyenv environments
+2026-10-04 18:10:50.463 [info] Searching for conda environments
+2026-10-04 18:10:50.464 [info] Searching for global virtual environments
+2026-10-04 18:10:50.464 [info] Searching for custom virtual environments
+2026-10-04 18:10:52.345 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-10-04 18:10:52.346 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-10-04 18:10:52.358 [info] pyenv is not installed
+2026-10-04 18:10:52.358 [info] Finished searching for pyenv environments: 1905 milliseconds
+2026-10-04 18:10:52.360 [info] Finished searching for custom virtual envs: 1905 milliseconds
+2026-10-04 18:10:52.369 [info] > conda info --json
+2026-10-04 18:10:52.380 [info] > hatch env show --json
+2026-10-04 18:10:52.380 [info] cwd: .
+2026-10-04 18:10:52.410 [info] > pyenv which python
+2026-10-04 18:10:52.410 [info] cwd: .
+2026-10-04 18:10:52.411 [info] Finished searching for global virtual envs: 1957 milliseconds
+2026-10-04 18:10:57.479 [info] Found: /bin/python --> /bin/python3.12
+2026-10-04 18:10:58.300 [info] Found: /bin/python3 --> /bin/python3.12
+2026-10-04 18:10:58.391 [info] Found: /bin/python3.12 --> /bin/python3.12
+2026-10-04 18:10:58.787 [error] Unable to find workspace for given file
+2026-10-04 18:11:01.015 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2026-10-04 18:11:01.329 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2026-10-04 18:11:01.343 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2026-10-04 18:11:01.595 [info] Finished searching for interpreters in posix paths locator: 11112 milliseconds
+2026-10-04 18:11:01.595 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-10-04 18:11:01.692 [info] > pyenv which python
+2026-10-04 18:11:01.692 [info] cwd: .
+2026-10-04 18:11:01.831 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-10-04 18:11:01.831 [info] Environments refresh paths discovered (event): 11378 milliseconds
+2026-10-04 18:11:01.831 [info] Environments refresh paths discovered: 11382 milliseconds
+2026-10-04 18:11:02.126 [info] Environments refresh finished (event): 11673 milliseconds
+2026-10-04 18:11:02.216 [info] Environment refresh took 11762 milliseconds
+2026-10-04 18:11:02.290 [info] Python interpreter path: /bin/python
+2026-10-04 18:11:05.587 [info] Starting Jedi language server for student_04_222a171c9bd6.

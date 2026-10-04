@@ -1,0 +1,7 @@
+2026-10-04 18:13:30.807 [warning] Dir "/home/student_04_222a171c9bd6/.pixi/envs" is not watchable (directory does not exist)
+2026-10-04 18:13:31.522 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-10-04 18:13:31.524 [info] Python interpreter path: /bin/python
+2026-10-04 18:13:35.657 [info] > conda info --json
+2026-10-04 18:13:36.514 [info] > pyenv which python
+2026-10-04 18:13:36.514 [info] cwd: .
+2026-10-04 18:13:42.924 [info] Starting Jedi language server for student_04_222a171c9bd6.
